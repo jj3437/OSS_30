@@ -1,3 +1,4 @@
+#완성본
 import cv2
 
 def mosaic_faces(input_path, output_path, format='mp4'):
